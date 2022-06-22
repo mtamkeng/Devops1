@@ -1,1 +1,4 @@
-# Devops1
+ Devops1
+ learning-shell
+ topic
+ bin bash
